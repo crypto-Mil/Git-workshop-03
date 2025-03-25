@@ -7,3 +7,8 @@ def food():
     print("pizza")
 
 food()
+
+def fav_drink():
+    print("Pepsi Max")
+
+fav_drink()
