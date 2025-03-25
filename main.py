@@ -1,4 +1,4 @@
-import alex, Emil, louise, niclas
+import alex, emilfood, louise, niclas
 
 name = input ("Vad heter du? ")
 
