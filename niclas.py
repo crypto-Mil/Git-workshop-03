@@ -3,3 +3,6 @@ def hello_niclas():
 
 def food():
     print("Pasta")
+
+def drink():
+    print("coke")
