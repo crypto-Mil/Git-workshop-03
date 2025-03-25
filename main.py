@@ -12,3 +12,5 @@ elif name.lower() == "louise":
     louise.print_hello()
 elif name.lower() == "niclas":
     niclas.hello_niclas()
+elif name.lower() == "pasta":
+    louise.fav_food()
