@@ -3,6 +3,10 @@ def print_hello():
 
 def fav_food():
     print("My favorite food is pasta :)")
+    
+def fav_drink():
+    print("cola zero")
 
 print_hello()
 fav_food()
+fav_drink()
