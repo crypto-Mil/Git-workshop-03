@@ -1,6 +1,5 @@
 import alex, Emil, louise, niclas
 
-
 name = input ("Vad heter du? ")
 
 print(name)
