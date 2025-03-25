@@ -6,7 +6,3 @@ def fav_food():
     
 def fav_drink():
     print("cola zero")
-
-print_hello()
-fav_food()
-fav_drink()
